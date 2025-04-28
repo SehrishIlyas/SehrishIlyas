@@ -1,6 +1,7 @@
 ## Hi, I'm Sehrish Ilyas
-
+---
 🚀 AI Engineer | ML/DL Specialist | MLOps Enthusiast
+
 🌟 A passionate Machine Learning and Deep Learning Engineer with a mission to drive positive change through technology. I specialize in building, deploying, and scaling AI-powered solutions that make an impact.
 ---
 ### 🧠 Expertise & Skills
@@ -28,17 +29,21 @@ I specialize in designing, developing, and deploying AI-driven solutions with a 
 **Tech Stack**: Streamlit, cx_Oracle, Pandas, Polars, Docker.  
 
 #### Freelance Data Specialist (Fiverr)
-Automated complex data extraction and cleansing pipelines using Python and R.
-Enhanced data quality and insights through advanced visualization and reporting (Tableau).
+
+Automated complex data extraction and cleansing pipelines using Python and R. Enhanced data quality and insights through advanced visualization and reporting (Tableau).
 ---
 ### ✍🏻 Blogs & Technical Writing:
+
 Check out my technical blogs on Medium:
 🔗 [Medium Profile](https://medium.com/@seriilyas)
 ---
 ### 🤝 Let's Connect!
 
 💼 **LinkedIn**: [Sehrish Ilyas](https://www.linkedin.com/in/sehrish-ilyas/)
+
 📧 **Email**: sehrishilyas19@gmail.com 
+
 📂 **GitHub**: [Sehrish Ilyas](https://github.com/SehrishIlyas)  
+
 ---
 💡 I believe technology has the power to transform lives — whether it's through AI innovation, data-driven insights, or creative tech solutions. I'm always excited to collaborate on meaningful projects. Let's build something extraordinary together!
