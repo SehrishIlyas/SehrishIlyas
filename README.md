@@ -1,10 +1,47 @@
-- 👋 Greetings! I’m @SehrishIlyas
-- 👀 I’m interested in Computer Vision and aspire to dive deeper and deeper into the realm of Deep Learning
-- 🌱 I’m currently learning Keras, Tensorflow, Object Detection and other Computer Vision related tasks
-- 💞️ I’m looking to collaborate on Machine Learning and Deep Learning
-- 📫 How to reach me: Connect with me on LinkedIn at [here](https://www.linkedin.com/in/sehrish-ilyas/)
+## Hi, I'm Sehrish Ilyas
 
-<!---
-SehrishIlyas/SehrishIlyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 AI Engineer | ML/DL Specialist | MLOps Enthusiast
+🌟 A passionate Machine Learning and Deep Learning Engineer with a mission to drive positive change through technology. I specialize in building, deploying, and scaling AI-powered solutions that make an impact.
+
+### 🧠 Expertise & Skills
+
+I specialize in designing, developing, and deploying AI-driven solutions with a strong emphasis on performance, scalability, and real-world impact. My technical proficiency includes:
+
+- **Machine Learning & Deep Learning**: Hands-on experience with TensorFlow, PyTorch, Transformers, and Hugging Face.
+- **NLP & LLMs**: Skilled in Retrieval-Augmented Generation (RAG), Prompt Engineering, and integrating LangChain and LLM agents for advanced automation and medical text processing.
+- **MLOps & Deployment**: Proficient in MLflow, Docker, Kubernetes, DVC, and Airflow for scalable AI pipelines, with hands-on experience in cloud deployment on Oracle Cloud and on-premises solutions.
+- **Data Engineering & Visualization**: Experienced in ETL processes with Talend Open Studio, Oracle database integration (cx_Oracle), and developing interactive dashboards using OBIEE and Streamlit for actionable insights.
+- **Programming & Tools**: Python | R | SQL | PL/SQL | Git | GitHub | FastAPI | Streamlit |  Jupyter Notebook | Anaconda | VS Code | OpenCV | Docker
+
+### 🚀 Featured Projects
+
+#### Gates Foundation Grand Challenges Project (SKMCH&RC & University of Oxford)
+**Funding**: Bill & Melinda Gates Foundation's Grand Challenges Initiative  
+**Overview**: Collaborated on a groundbreaking AI project to assess the equitable use of Large Language Models (LLMs) for clinical decision support in South Asia. Fine-tuned open-source LLMs to process electronic health records (EHRs), enabling medical concept extraction and question answering to enhance decision-making and reduce health disparities.  
+**Tech Stack**: LLMs, NLP, Python, Huggingface.  
+
+#### Autonomous Discharge Summary Generation (SKMCH&RC)
+**Overview**: Collaborated on an AI-driven system for generating discharge summaries, transitioning from ChatGPT API to a cost-effective, locally deployed Llama model. Optimized documentation workflows for operational efficiency.  
+**Tech Stack**: Python, Ollama, FastAPI, Oracle DB.  
+
+#### Radiology Report Querying Application (SKMCH&RC)
+**Overview**: Built a Streamlit application for querying and analyzing radiology/nuclear medicine reports, integrating Oracle database connectivity and advanced data manipulation.  
+**Tech Stack**: Streamlit, cx_Oracle, Pandas, Polars, Docker.  
+
+#### Freelance Data Specialist (Fiverr)
+
+Automated complex data extraction and cleansing pipelines using Python and R.
+Enhanced data quality and insights through advanced visualization and reporting (Tableau).
+
+### ✍🏻 Blogs & Technical Writing:
+Check out my technical blogs on Medium:
+🔗 [Medium Profile](https://medium.com/@seriilyas)
+
+### 🤝 Let's Connect!
+
+💼 **LinkedIn**: [Sehrish Ilyas](https://www.linkedin.com/in/sehrish-ilyas/)  
+📧 **Email**: sehrishilyas19@gmail.com 
+📂 GitHub: [Sehrish Ilyas](https://github.com/SehrishIlyas)  
+
+💡 I believe technology has the power to transform lives — whether it's through AI innovation, data-driven insights, or creative tech solutions. I'm always excited to collaborate on meaningful projects. Let's build something extraordinary together!
+
